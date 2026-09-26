@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "637898546062",
+    "project_id": "travela-ff3ef",
+    "storage_bucket": "travela-ff3ef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637898546062:android:6e9e4d2900873fe23ba2df",
+        "android_client_info": {
+          "package_name": "com.example.login_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj35YrFyp-ZLs44mZbt-nHpxkdimPb9T0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637898546062:android:540d4ab2f0e5845e3ba2df",
+        "android_client_info": {
+          "package_name": "com.example.navigator_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj35YrFyp-ZLs44mZbt-nHpxkdimPb9T0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
